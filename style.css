@@ -1909,7 +1909,7 @@ html
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 30px;
+    gap: 18px;
 }
 .last-card :nth-child(4)
 {
